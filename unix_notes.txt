@@ -1,0 +1,212 @@
+    1  SHELL
+    2  echo
+    3  echo
+    4  pwd
+    5  ls
+    6  ls document
+    7  ls documents
+    8  ls music
+    9  ls library
+   10  pwd
+   11  pwd
+   12  ls
+   13  ls documents
+   14  ls /users/seanmills/documents
+   15  ls ~/documents
+   16  ls ./documents
+   17  pwd
+   18  ls/users/documents
+   19  ls /users/seanmills/documents
+   20  ls ../../
+   21  ls /
+   22  cd
+   23  cd documents
+   24  pwd
+   25  ls
+   26  cd /
+   27  pwd
+   28  pwd /
+   29  ls
+   30  cd ~/documents
+   31  pwd
+   32  cd../../
+   33  cd/hTab/<seanmills>Tab
+   34  ls /etc
+   35  cd /etc
+   36  ls manpaths
+   37  pwd
+   38  shells
+   39  ls shells
+   40  cd
+   41  ls /var/log
+   42  pwd
+   43  ls wifi.log
+   44  ls uucp
+   45  cd /var/log
+   46  uucp
+   47  ls uucp
+   48  wifi.;og
+   49  wifi.log
+   50  ls wifi.log
+   51  ls fax
+   52  fax
+   53  powermanagement
+   54  ppp
+   55  ls ppp
+   56  pp
+   57  ppp
+   58  pwd
+   59  emond
+   60  cd
+   61  pwd
+   62  ls /bin
+   63  cd /bin
+   64  pwd
+   65  ed
+   66  /bin
+   67  ls /bin
+   68  /ls
+   69  ls
+   70  ls /pictures
+   71  ls /pictures/
+   72  ls 
+   73  desktop
+   74  cd /desktop
+   75  ls dekstop
+   76  ls /desktop
+   77  ls documents
+   78  ls desktop
+   79  ls pictures
+   80  man ls
+   81  mkdir lunxtutorialwork
+   82  ls 
+   83  ls documents
+   84  mkdir
+   85  mkdir
+   86  mkidr linuxtutorialwork
+   87  mkdir -p
+   88  mkdir -pv
+   89  pws
+   90  pwd
+   91  pwd
+   92  cd /
+   93  ls
+   94  ls -t
+   95  ls -lt
+   96  ls r
+   97  ls -r
+   98  ls -l
+   99  ls
+  100  ls-t
+  101  ls -t
+  102  man ls
+  103  man
+  104  man ls
+  105  ls - p
+  106  ls -p
+  107  man ls
+  108  ls -m
+  109  man ls
+  110  ls -w
+  111  man ls
+  112  ls -R
+  113  clear
+  114  pd
+  115  pwd
+  116  cd /users/seanmills
+  117  pwd
+  118  ls
+  119  ls -l
+  120  cd desktop
+  121  pwd
+  122  ls
+  123  The G
+  124  cd The G
+  125  ls
+  126  ls -The G
+  127  cd mp3 download
+  128  cd ..
+  129  pwd
+  130  ls
+  131  ls -l
+  132  cd desktop
+  133  ls
+  134  ls The G
+  135  ls -mp3download
+  136  ls -The G
+  137  ls -l
+  138  cd The G
+  139  cd the g
+  140  cd reps
+  141  cd reps
+  142  cd repos
+  143  pwd
+  144  cd..
+  145  cd ..
+  146  ls
+  147  cd theg
+  148  cd ..
+  149  pwd
+  150  ls
+  151  cd downloads
+  152  cd
+  153  pwd
+  154  cd downloads
+  155  pwd
+  156  ls
+  157  cd seanmills.pdf
+  158  cd Seanmills.pdf
+  159  ls -l
+  160  cd
+  161  ls /
+  162  ls -l
+  163  ls -l
+  164  ls l-
+  165  ls -l/
+  166  ls -l
+  167  ls 
+  168  ls .
+  169  ls .
+  170  .
+  171  histor
+  172  history
+  173  history | less
+  174  history | less
+  175  pwd
+  176  history > my_history
+  177  ls
+  178  ls -t
+  179  less my_histroy
+  180  less my_history
+  181  subl
+  182  pwd
+  183  mkdir urge_workshop
+  184  ls
+  185  ls -t
+  186  mv my_history urge_workshop
+  187  cd urge_workshop
+  188  mv my_history unix_notes.txt
+  189  cd
+  190  ls
+  191  ls urge_workshop
+  192  ls unix_notes
+  193  ls unix_notes.txt
+  194  mv urge_workshop unix_notes.txt
+  195  ls
+  196  subl
+  197  subl
+  198  cd subl
+  199  subl
+  200  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  201  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  202  subl
+  203  subl
+  204  pwd
+  205  subl
+  206  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  207  subl
+  208  subl
+  209  ls
+  210  cd unix_notes.txt
+  211  cd
+  212  history > moving_around.txt
